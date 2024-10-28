@@ -2,7 +2,7 @@
 
 This project showcases an HR analytics dashboard designed to provide valuable insights into employee performance, productivity, and satisfaction across various metrics. The dataset includes essential employee information such as job roles, education levels, performance scores, and satisfaction ratings, making it ideal for conducting in-depth churn analysis, performance evaluation, and workforce optimization.
 <br><br>
-### 🔍 Key Features
+### Key Features
 
 - **Interactive Design:** The dashboard spans two pages, each dedicated to specific aspects of HR analytics:
   - **Page 1: Employee Overview**  
@@ -25,7 +25,7 @@ This project showcases an HR analytics dashboard designed to provide valuable in
 - **User-Friendly Navigation:**  
   The dashboard includes intuitive filtering options and interactive buttons, making it easy to explore different data segments without overwhelming the user. The navigation is designed to facilitate a seamless user experience, encouraging exploration of key metrics.
 <br><br>
-### 📊 Analysis Capabilities
+### Analysis Capabilities
 
 1. **Employee Demographics:**  
    Provides visualizations of employee age distribution, gender composition, and job titles, offering insights into the diversity and structure of the workforce.
@@ -36,10 +36,10 @@ This project showcases an HR analytics dashboard designed to provide valuable in
 4. **Satisfaction Insights:**  
    Examines employee satisfaction levels across various dimensions, including workload, promotion frequency, and work environment, to identify drivers of employee engagement and areas for improvement.
 <br><br>
-### 🎨 Design Philosophy
+### Design Philosophy
 
 The dashboard was designed with a focus on clarity and actionable insights. By presenting complex data in a structured, easy-to-understand format, the dashboard enables HR professionals to quickly identify trends and take informed actions. The use of color-coding and interactive elements further enhances the user's ability to interpret data and uncover key insights.
 <br><br>
-### 🚀 Results
+### Results
 
 This dashboard not only streamlines the process of HR reporting but also empowers organizations to make data-driven decisions, ultimately leading to improved employee satisfaction, higher productivity, and reduced turnover.
