@@ -17,8 +17,8 @@ This project showcases an HR analytics dashboard designed to provide valuable in
     Delves into the factors influencing employee performance and satisfaction. It includes breakdowns by salary groups, team size, remote work patterns, and the number of promotions, allowing for data-driven decision-making.
 <br><br>
 <p align="center">
-  <img src="https://github.com/DanielvanDongen/HR-Analytics/blob/main/pictures/performance.png" alt="Employee Overview" width="500"/>
-  <img src="https://github.com/DanielvanDongen/HR-Analytics/blob/main/pictures/satisfaction.png" alt="Employee Overview" width="500"/>
+  <img src="https://github.com/DanielvanDongen/HR-Analytics/blob/main/pictures/performance.png" alt="Employee Overview" width="400"/>
+  <img src="https://github.com/DanielvanDongen/HR-Analytics/blob/main/pictures/satisfaction.png" alt="Employee Overview" width="400"/>
 </p>
 <br><br>
 
