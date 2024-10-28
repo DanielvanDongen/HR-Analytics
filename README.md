@@ -7,7 +7,12 @@ This project showcases an HR analytics dashboard designed to provide valuable in
 - **Interactive Design:** The dashboard spans two pages, each dedicated to specific aspects of HR analytics:
   - **Page 1: Employee Overview**  
     Offers a comprehensive view of employee demographics, turnover rates, retention trends, and working hours distribution. This section helps HR managers understand the composition of the workforce and identify areas for retention improvement.  
-    <img src="https://github.com/DanielvanDongen/HR-Analytics/blob/main/pictures/employee_overview.png" alt="Employee Overview" width="500"/>
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/DanielvanDongen/HR-Analytics/blob/main/pictures/employee_overview.png" alt="Employee Overview" width="500"/>
+</p>
+
     
   - **Page 2: Performance and Satisfaction Analysis**  
     Delves into the factors influencing employee performance and satisfaction. It includes breakdowns by salary groups, team size, remote work patterns, and the number of promotions, allowing for data-driven decision-making.
